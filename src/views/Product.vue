@@ -167,7 +167,7 @@ import { WOW } from 'wowjs'
 				  }
 				},
 				service_swipers: [
-					require("../assets/image/introduction/house.png"),
+					require("../assets/image/introduction/product.png"),
 					require("../assets/image/introduction/economic.png"),
 					require("../assets/image/introduction/house.png"),
 					require("../assets/image/introduction/housemana.png"),
